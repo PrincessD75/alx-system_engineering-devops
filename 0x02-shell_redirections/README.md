@@ -1,1 +1,1 @@
-18-letteronly
+15-countthatword
